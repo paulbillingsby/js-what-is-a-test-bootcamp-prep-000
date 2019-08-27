@@ -2,6 +2,6 @@
 var name = "Joe"
 var height = 74
 var message = `${name} is ${height} inches tall`
-var messageTwo = `${height} is not ${name}`
+
 module.exports = {name, height, message}
 console.log(message)
